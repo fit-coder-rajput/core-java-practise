@@ -1,7 +1,7 @@
 1. ThreadUncaughtExceptionHandler
 
-when thread throw exception which is not handled anywhere in that case we can set ans
-uncaught exception handler method for that thread.
+when thread throw exception which is not handled anywhere , in that case we can set an
+uncaught exception handler method to handle the exception where we can do all the cleanup that required when exception happened.
 
 
 
